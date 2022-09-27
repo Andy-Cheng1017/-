@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Crystal_GND24
+D Four pin crystal, GND on pins 2 and 4
+K quartz ceramic resonator oscillator
+F https://datasheet.lcsc.com/szlcsc/1811151640_TAE-Zhejiang-Abel-Elec-SMD-3225-4P16M12pf10ppm_C133336.pdf
+$ENDCMP
+#
+$CMP FM1208S
+F https://datasheet.lcsc.com/szlcsc/2010161233_Shenzhen-Fuman-Elec-FM1208S_C92235.pdf
+$ENDCMP
+#
+$CMP IP5306
+F https://datasheet.lcsc.com/szlcsc/2006111336_INJOINIC-IP5306-LC_C605440.pdf
+$ENDCMP
+#
+$CMP SW_Push
+D Push button switch, generic, two pins
+K switch normally-open pushbutton push-button
+F ~
+$ENDCMP
+#
+#End Doc Library

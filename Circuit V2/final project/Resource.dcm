@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADW11
+D Panasonic, 8A/16A, Small Polarized Latching Power Relays, Single coil, 1 Form A
+K SPST 1P1T
+F https://www.panasonic-electric-works.com/pew/es/downloads/ds_dw_hl_en.pdf
+$ENDCMP
+#
+$CMP Crystal_GND24
+D Four pin crystal, GND on pins 2 and 4
+K quartz ceramic resonator oscillator
+F https://datasheet.lcsc.com/szlcsc/1811151640_TAE-Zhejiang-Abel-Elec-SMD-3225-4P16M12pf10ppm_C133336.pdf
+$ENDCMP
+#
+$CMP FM1208S
+F https://datasheet.lcsc.com/szlcsc/2010161233_Shenzhen-Fuman-Elec-FM1208S_C92235.pdf
+$ENDCMP
+#
+$CMP IP5306
+F https://datasheet.lcsc.com/szlcsc/2006111336_INJOINIC-IP5306-LC_C605440.pdf
+$ENDCMP
+#
+$CMP ME6216A33XG
+D 300mA,
+K LDO positive voltage industrial
+F https://datasheet.lcsc.com/lcsc/1912111437_MICRONE-Nanjing-Micro-One-Elec-ME6216A33XG_C236655.pdf
+$ENDCMP
+#
+$CMP SW_Push
+D Push button switch, generic, two pins
+K switch normally-open pushbutton push-button
+F ~
+$ENDCMP
+#
+$CMP WE-140357145100-OCPT
+F https://www.we-online.com/catalog/datasheet/140357145100.pdf
+$ENDCMP
+#
+#End Doc Library
